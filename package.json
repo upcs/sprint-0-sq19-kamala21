@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "sprint0",
   "main": "server.js",
-  "dependencies": {
-    "jest": "^24.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
