@@ -1,0 +1,26 @@
+{
+  "name": "sprint-0-sq19-kamala21",
+  "version": "1.0.0",
+  "description": "sprint0",
+  "main": "server.js",
+  "dependencies": {
+    "jest": "^24.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-kamala21.git"
+  },
+  "keywords": [
+    "sprint0"
+  ],
+  "author": "Pelenalako Kamala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-kamala21/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-kamala21#readme"
+}

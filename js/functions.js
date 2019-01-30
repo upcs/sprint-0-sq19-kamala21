@@ -1,3 +1,3 @@
-function addTwoNum(x, y) {
+function sum(x, y) {
 	return x+y;
 }
