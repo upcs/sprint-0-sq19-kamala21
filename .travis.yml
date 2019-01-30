@@ -1,8 +1,4 @@
 language: node_js
 node_js:
   - "iojs"
-install:
-  - npm install
-  - npm install --save-dev jest
-script:
-  - npm run test
+  - "7"
